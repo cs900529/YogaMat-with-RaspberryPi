@@ -44,4 +44,5 @@ Pair the Device
 (This is why VNC is needed instead of directly using SSH for control - Raspberry Pi's Bluetooth connection cannot pair automatically, and this aspect is still being addressed.)
 
 ## step 6. Run  yogaMat.py
-Now you can run the yogaMat.py
+Now you can run the yogaMat.py (must use sudo)
+`sudo python yogaMat.py`
