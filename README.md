@@ -37,10 +37,10 @@ $ sudo reboot
 ## step 5. Connect to the Raspberry Pi via Bluetooth on your mobile device.
 
 Remember to click on the Bluetooth icon and select "Make Discoverable."
-![image](https://github.com/cs900529/YogaMat-with-RaspberryPi/assets/100250385/adbc82eb-771e-4c76-affc-1f48c708bcc6)
+![discoverable](https://github.com/cs900529/YogaMat-with-RaspberryPi/assets/100250385/ac6aa485-5ef2-4d0f-a980-7216c4423cae)
 
 Pair the Device
-![圖片1](https://github.com/cs900529/YogaMat-with-RaspberryPi/assets/100250385/e61d294c-3fb3-4ab9-b699-d96a06d26b4e)
+![圖片1](https://github.com/cs900529/YogaMat-with-RaspberryPi/assets/100250385/2f016502-d9c3-44d5-9372-209c6f351cdb)
 (This is why VNC is needed instead of directly using SSH for control - Raspberry Pi's Bluetooth connection cannot pair automatically, and this aspect is still being addressed.)
 
 ## step 6. Run  yogaMat.py
