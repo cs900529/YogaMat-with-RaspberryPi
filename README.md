@@ -41,7 +41,7 @@ Remember to click on the Bluetooth icon and select "Make Discoverable."
 
 Pair the Device
 ![圖片1](https://github.com/cs900529/YogaMat-with-RaspberryPi/assets/100250385/b3e01f92-b46f-4b3e-87e7-3dc56ab2be75)
-(This is why VNC is needed instead of directly using SSH for control - Raspberry Pi's Bluetooth connection cannot pair automatically, and this aspect is still being addressed.)
+(This is why VNC is needed instead of directly using SSH for control - Raspberry Pi's Bluetooth connection cannot pair automatically, and this aspect is still being addressed. Or just use mini-HDMI cable)
 
 ## step 6. Run  yogaMat.py
 Now you can run the yogaMat.py (must use sudo)
